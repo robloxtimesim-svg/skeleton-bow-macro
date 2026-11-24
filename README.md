@@ -1,6 +1,6 @@
-# Skeleton bow macro
+# Skeleton bow macro v12
 
-AutoHotkey v2 script (v12) that auto-shoots skeletons with a bow in a Roblox game.
+AutoHotkey v2 script (`skeleton_bow_v12.ahk`) that auto-shoots skeletons with a bow in a Roblox game.
 It reads the game window, finds skeletons with a small embedded decision-tree model,
 leads moving targets, and tracks hits and misses.
 
